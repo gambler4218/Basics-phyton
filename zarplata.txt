@@ -1,0 +1,5 @@
+Chehov 25000
+Pushkin 30000
+Bach 20000
+Pavlov 15000
+Petrov 40000
